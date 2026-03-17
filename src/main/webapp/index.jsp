@@ -23,9 +23,9 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movie-maina</a></li>
-            <li class="nav-items"><a href="#">Ssssssss</a></li>
+            <li class="nav-items"><a href="#">Sssssssssss</a></li>
             <li class="nav-items"><a href="#">K-Drama</a></li>
-            <li class="nav-items"><a href="#">uuuuuuuuu</a></li>
+            <li class="nav-items"><a href="#">uuugggguuuuuu</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
 
